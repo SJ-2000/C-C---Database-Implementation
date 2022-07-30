@@ -19,6 +19,7 @@ Distance from capital: 0 km
 A student can create a city structure with required attribute and use any data structure of choice.
 
 
+
 Specifications and flow:
 
 Operations required
